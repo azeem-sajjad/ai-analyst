@@ -1,0 +1,4 @@
+MODEL = "llama3"
+UPLOAD_DIR = "uploads"
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 200
